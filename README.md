@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MS-D-rei&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MS-D-rei&layout=donut&theme=dracula)](https://github.com/MS-D-rei/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MS-D-rei&layout=compact&theme=dracula&langs_count=10)](https://github.com/MS-D-rei/github-readme-stats)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">Languages</p>
@@ -91,6 +91,7 @@ Here are some ideas to get you started:
       height="40"
     />
   </a>
+  assembly
 </p>
 
 <p align="left">Frontend Dev</p>
