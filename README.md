@@ -91,7 +91,7 @@ Here are some ideas to get you started:
       height="40"
     />
   </a>
-  assembly
+  Assembly
 </p>
 
 <p align="left">Frontend Dev</p>
